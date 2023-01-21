@@ -107,5 +107,6 @@ const init = function () {
   stickyNavObserver();
 };
 init();
+console.log("Welcome to Omnifood!");
 
 // https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js
